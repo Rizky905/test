@@ -98,7 +98,7 @@ if (isset($_POST["submit"])) {
                 </div>
                 <tr>
                     <td>
-                        <input type="checkbox" name="keahlian[]" value="java"> java<br />
+                        <input type="checkbox" name="keahlian[]" value="java"> test<br />
                         <input type="checkbox" name="keahlian[]" value="css"> css<br />
                         <input type="checkbox" name="keahlian[]" value="kotlin"> kotlin<br />
                     </td>
